@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.odw.service.BasketServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-14T15:37:32" hostname="OLIVER_LAPTOP" time="0.996">
+  <properties/>
+  <testcase name="calculate_correctlyAdds_allSubscriptions" classname="com.odw.service.BasketServiceTest" time="0.996"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

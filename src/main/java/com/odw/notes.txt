@@ -1,0 +1,6 @@
+
+
+Define Subscription class
+    - userId
+    - subType
+    - price
